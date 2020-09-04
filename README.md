@@ -1,0 +1,1 @@
+# mojikiban-go
