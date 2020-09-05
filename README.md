@@ -1,6 +1,6 @@
 # mojikiban-go
 
-mojikiban-go is a CLI and go client library for the [Mojikiban API](https://mojikiban.ipa.go.jp/search/help/api).
+mojikiban-go is a client library for the [Mojikiban API](https://mojikiban.ipa.go.jp/search/help/api).
  
 # Install
 
